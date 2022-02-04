@@ -164,6 +164,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
             items: [
               {text: 'Vue Router', link: '/pages/8309a5b876fc95e3/'},
               {text: 'Vuex', link: '/pages/0a83b083bdf257cb/'},
+              {text: 'ES6', link: '/note/es6/'},
             ],
           },
         ],
