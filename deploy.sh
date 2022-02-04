@@ -25,7 +25,7 @@ git init
 git add -A
 git commit -m "deploy"
 git push -f git@github.com:zx20100143/zx20100143.github.io.git master # 推送到github master分支
-git push -f https://github.com/zx20100143/zx20100143.github.io.git master
+# git push -f https://github.com/zx20100143/zx20100143.github.io.git master
 
 # deploy to coding pages
 # echo 'www.xugaoyi.com\nxugaoyi.com' > CNAME  # 自定义域名
