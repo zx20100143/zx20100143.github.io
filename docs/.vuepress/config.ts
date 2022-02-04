@@ -237,7 +237,7 @@ export default defineConfig4CustomTheme<VdoingThemeConfig>({
           },
           {
             text: 'Java',
-            link: '/back-end/',
+            link: '/pages/bbda94/',
           },
           {
             text: '框架',
